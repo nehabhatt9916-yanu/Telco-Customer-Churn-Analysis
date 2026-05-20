@@ -2,7 +2,6 @@
 
 # 📊 Telco Customer Churn Analysis Dashboard
 To better understand customer behavior and identify churn patterns, I worked on an end-to-end Data Analytics project focused on Telco Customer Churn Analysis using Power BI, Python, and Machine Learning.
-
 This project helped me combine business intelligence, data storytelling, predictive analytics, and dashboard development into a single real-world analytics solution.
 ## 📌 Project Overview
 This project focuses on analyzing customer churn behavior in the telecom industry using Power BI, Python, and Machine Learning techniques. The objective is to identify key churn drivers, understand customer risk segments, and provide actionable business recommendations to improve customer retention.
